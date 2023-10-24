@@ -23,11 +23,16 @@ Please, see the documentation of the `netunicorn` repository for further details
 
 ## Repositories
 
-This organization contains the next repositories:
+This organization contains the following repositories:
 - `netunicorn` - this is the main repository of the system, including base, client, and directory services source code.
 - `netunicorn-library` - this is the repository that contains all public implementations of different tasks and pipelines. Pull Requests with your implementations are welcome!
 - `netunicorn-connector-...` - these repositories contain netUnicorn connector implementation for different network infrastructure providers, such as Kubernetes, AWS, SaltStack, etc.'
 - `netunicorn-search` - this is a supplementary repository, containing artifacts for the research paper presenting netUnicorn.
+
+## Links
+
+- API documentation of the `netunicorn-base` and `netunicorn-client` packages, together with design documentation and connectors information is available here: https://netunicorn.cs.ucsb.edu/
+- Slack workspace for netUnicorn is available here: [Workspace](https://join.slack.com/t/netunicorn/shared_invite/zt-240tsalar-l1Wc3DERTlXJ6wE~DXmm9A)
 
 ## Cite us
 
