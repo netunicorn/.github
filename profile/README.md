@@ -38,6 +38,24 @@ This organization contains the following repositories:
 
 ```Roman Beltiukov, Wenbo Guo, Arpit Gupta, and Walter Willinger. 2023. In Search of netUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS ’23), November 26–30, 2023, Copenhagen, Denmark. ACM, New York, NY, USA, 15 pages. https://doi.org/10.1145/3576915.3623075```
 
-See also the extended version of the paper: https://arxiv.org/abs/2306.08853
+Bibtex:
+```
+@inproceedings{10.1145/3576915.3623075,
+author = {Beltiukov, Roman and Guo, Wenbo and Gupta, Arpit and Willinger, Walter},
+title = {In Search of NetUnicorn: A Data-Collection Platform to Develop Generalizable ML Models for Network Security Problems},
+year = {2023},
+isbn = {9798400700507},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3576915.3623075},
+doi = {10.1145/3576915.3623075},
+booktitle = {Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security},
+pages = {2217–2231},
+numpages = {15},
+keywords = {artificial intelligence, data collection, network security, generalizability, machine learning},
+location = {<conf-loc>, <city>Copenhagen</city>, <country>Denmark</country>, </conf-loc>},
+series = {CCS '23}
+}
+```
 
-INFO: BibTeX citations will be available later
+See also the extended version of the paper: https://arxiv.org/abs/2306.08853
